@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scene/meera1.unity
+    path: Assets/Scene/Main_MuseTalk.unity
     guid: 8ca0ec7cf39dadf4f9428bb5a99906a2
   m_configObjects: {}

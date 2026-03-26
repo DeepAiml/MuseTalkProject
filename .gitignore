@@ -75,6 +75,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Others
+CLAUDE.md
 .DS_Store
 /Assets/Extensions*
 /Assets/uLipSync/Samples/XX*

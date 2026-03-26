@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.8995607, g: 0.8882376, b: 0.8905252, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &4
 LightmapSettings:
@@ -423,7 +422,7 @@ GameObject:
   - component: {fileID: 303933892}
   - component: {fileID: 303933893}
   m_Layer: 0
-  m_Name: DontDestroy
+  m_Name: SpeakApiCaller
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -864,7 +863,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   OutPut_Image: {fileID: 1154559947}
   audioSource: {fileID: 2048051018}
-  audioSpeedMultiplier: 2
+  audioSpeedMultiplier: 1
 --- !u!114 &441072945
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -881,7 +880,6 @@ MonoBehaviour:
   micOn: 0
   token: 
   session_Id: 
-  webgl_clientId: 
 --- !u!1 &798495103
 GameObject:
   m_ObjectHideFlags: 0
