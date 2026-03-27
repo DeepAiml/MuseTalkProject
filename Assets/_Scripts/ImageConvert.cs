@@ -13,7 +13,7 @@ public class ImageConvert : MonoBehaviour
 
     [Header("Audio Settings")]
     [Range(0.5f, 4.0f)]
-    [SerializeField] public float audioSpeedMultiplier = 1f;
+    [SerializeField] private float audioSpeedMultiplier = 1f;
 
     private const int AUDIO_SAMPLE_RATE = 22050;
     private const int MIN_BUFFER_SAMPLES = 3200;
